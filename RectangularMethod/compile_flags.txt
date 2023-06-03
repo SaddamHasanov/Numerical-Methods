@@ -1,0 +1,4 @@
+-IC:\Users\DELL\Desktop\MyProjects\UdemyCourse\UdemyCourse\Numerical-Methods\RectangularMethod
+-std=c++17
+-target
+

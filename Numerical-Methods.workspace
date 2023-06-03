@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Numerical-Methods" Database="" Version="10000">
+  <Project Name="RectangularMethod" Path="RectangularMethod/RectangularMethod.project" Active="No"/>
+  <Project Name="TrapezoidalMethod" Path="TrapezoidalMethod/TrapezoidalMethod.project" Active="No"/>
+  <Project Name="SimpsonMethod" Path="SimpsonMethod/SimpsonMethod.project" Active="No"/>
+  <Project Name="NyuthonMethod" Path="NyuthonMethod/NyuthonMethod.project" Active="No"/>
+  <Project Name="TendonsMethod" Path="TendonsMethod/TendonsMethod.project" Active="No"/>
+  <Project Name="CombinationOfTwoMethods" Path="CombinationOfTwoMethods/CombinationOfTwoMethods.project" Active="Yes"/>
+  <Project Name="DichotomyMethod" Path="DichotomyMethod/DichotomyMethod.project" Active="No"/>
+  <Project Name="IterationMethod" Path="IterationMethod/IterationMethod.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="RectangularMethod" ConfigName="Debug"/>
+      <Project Name="TrapezoidalMethod" ConfigName="Debug"/>
+      <Project Name="SimpsonMethod" ConfigName="Debug"/>
+      <Project Name="NyuthonMethod" ConfigName="Debug"/>
+      <Project Name="TendonsMethod" ConfigName="Debug"/>
+      <Project Name="CombinationOfTwoMethods" ConfigName="Debug"/>
+      <Project Name="DichotomyMethod" ConfigName="Debug"/>
+      <Project Name="IterationMethod" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="RectangularMethod" ConfigName="Release"/>
+      <Project Name="TrapezoidalMethod" ConfigName="Release"/>
+      <Project Name="SimpsonMethod" ConfigName="Release"/>
+      <Project Name="NyuthonMethod" ConfigName="Release"/>
+      <Project Name="TendonsMethod" ConfigName="Release"/>
+      <Project Name="CombinationOfTwoMethods" ConfigName="Release"/>
+      <Project Name="DichotomyMethod" ConfigName="Release"/>
+      <Project Name="IterationMethod" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

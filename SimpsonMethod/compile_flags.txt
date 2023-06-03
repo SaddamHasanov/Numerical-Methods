@@ -1,0 +1,4 @@
+-IC:\Users\DELL\Desktop\MyProjects\UdemyCourse\UdemyCourse\Numerical-Methods\SimpsonMethod
+-std=c++17
+-target
+
